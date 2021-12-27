@@ -5,6 +5,7 @@
 #### Scan QR Code available on [https://expo.dev/@prashantsehgal/Todos](https://expo.dev/@prashantsehgal/Todos)
 
 # Preview
-![alt text](/git-img/no-todo.png)
+<img src="/git-img/no-todo.png" alt="app" width="200"/>
+<!-- ![alt text](/git-img/no-todo.png) -->
 ![alt text](/git-img/add-todo.png)
 ![alt text](/git-img/home-screen.png)
