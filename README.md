@@ -6,6 +6,5 @@
 
 # Preview
 <img src="/git-img/no-todo.png" alt="app" width="200"/>
-<!-- ![alt text](/git-img/no-todo.png) -->
-![alt text](/git-img/add-todo.png)
-![alt text](/git-img/home-screen.png)
+<img src="/git-img/add-todo.png" alt="app" width="200"/>
+<img src="/git-img/home-screen.png" alt="app" width="200"/>
